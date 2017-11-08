@@ -14,5 +14,5 @@ function overwriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  console.error('that doesn't work)
+  console.error('that doesn\'t work')
 }
